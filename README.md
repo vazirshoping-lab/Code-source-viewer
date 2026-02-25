@@ -1,37 +1,30 @@
 # Code Source Viewer
 
-This repository contains the source code for the Code Source Viewer project.
+## Project Documentation
 
-## Overview
+### Overview
+The Code Source Viewer is an application designed to provide an accessible way to view and manage source code files. It supports various programming languages and offers additional functionalities such as syntax highlighting, version control integration, and file comparison.
 
-The Code Source Viewer is designed to help users navigate and understand the code structure, making it easier to learn from and utilize existing codebases.
+### Features
+- **Syntax Highlighting**: Color-coded display of code based on programming language syntax.
+- **File Management**: Ability to open, edit, and save code files with ease.
+- **Version Control Integration**: Seamless integration with Git for managing code versions.
+- **File Comparison**: Easily compare different versions of the same file.
 
-## Features
-- **Easy navigation**: Simple interface for browsing code.
-- **Syntax highlighting**: Supports various programming languages to improve readability.
-- **Search functionality**: Quickly find functions, classes, and variables.
+### Installation
+1. Clone the repository: `git clone https://github.com/vazirshoping-lab/Code-source-viewer.git`
+2. Navigate to the project directory: `cd Code-source-viewer`
+3. Install dependencies: `npm install`
 
-## Installation
+### Usage
+To start the application, run:  
+`npm start`
 
-To install the Code Source Viewer, clone this repository and run the application locally:
+### Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-```bash
-git clone https://github.com/vazirshoping-lab/Code-source-viewer.git
-cd Code-source-viewer
-```
-
-## Usage
-
-Open the application and start navigating through the source code. Utilize the search functionality to find specific code snippets.
-
-## Contributing
-
-Feel free to contribute to the project. Ensure to follow the code of conduct and guidelines provided in the repository.
-
-## License
-
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For more information, please contact the repository owner.
+### Contact
+For any questions or feedback, please contact the project maintainer at [your-email@example.com].
